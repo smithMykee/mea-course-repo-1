@@ -5,4 +5,6 @@ This is an example git repository.
 
 This is where the content might live.
 
-File edited/updated!!
+*[Contents](#Contents)
+
+*[Footer](#Footer)
